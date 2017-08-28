@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Linee guida di interoperabilità"
+settings_project_name = u"Linee guida di interoperabilità"
 settings_copyright_year = '2017'
 settings_copyright_name = ''
 settings_doc_version = 'version: latest'
