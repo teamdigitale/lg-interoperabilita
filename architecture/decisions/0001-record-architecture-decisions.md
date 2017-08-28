@@ -12,7 +12,7 @@ Abbiamo bisogno di registrare le decisioni architetturali prese in questo proget
 
 ## Decisisione
 
-Utilizzeremo gli [Architecture Decision Records](ttp://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions), come descritti da Michael Nygard nel suo articolo.
+Utilizzeremo gli [Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions), come descritti da Michael Nygard nel suo articolo.
 
 ## Conseguenze
 
