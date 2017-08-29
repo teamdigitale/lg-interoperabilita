@@ -10,7 +10,7 @@ Accetato
 
 Abbiamo bisogno di registrare le decisioni architetturali prese in questo progetto.
 
-## Decisisione
+## Decisione
 
 Utilizzeremo gli [Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions), come descritti da Michael Nygard nel suo articolo.
 
