@@ -1,4 +1,4 @@
-# Linee guida del nuovo Modello di interoperabilità
+# Linee guida del nuovo Modello di interoperabilità (BOZZA)
 
 ## Cos'è
 
