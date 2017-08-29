@@ -16,6 +16,18 @@ La scrittura delle Linee Guida è partecipativa, i contributi sono benvenuti.
 
 ## Decisioni architetturali
 
-Utilizziamo [Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) per tracciare le decisioni relative a questa iniziativa
+Utilizziamo [Architecture Decision
+Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+per tracciare le decisioni relative a questa iniziativa
 
-Questo repository è configurato per l'uso con [_adr-tools_](https://github.com/npryce/adr-tools).
+## Generazione della versione web
+
+Per generare la versione navigabile occorre installare [Sphinx](http://www.sphinx-doc.org/) in questo modo:
+
+```
+virtualenv env
+source env/bin/activate
+pip-install sphinx
+```
+
+Una volta installato sphinx il testo si genera lanciando lo script `build.sh`
