@@ -16,6 +16,6 @@ La scrittura delle Linee Guida è partecipativa, i contributi sono benvenuti.
 
 ## Decisioni architetturali
 
-Utilizziamo [Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) per tracciare le decisioni relative a questa inziiativa
+Utilizziamo [Architecture Decision Records](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) per tracciare le decisioni relative a questa iniziativa
 
-This repository è configurato per l'uso con [_adr-tools_](https://github.com/npryce/adr-tools).
+Questo repository è configurato per l'uso con [_adr-tools_](https://github.com/npryce/adr-tools).
